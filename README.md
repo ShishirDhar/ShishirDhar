@@ -77,13 +77,6 @@ Focus areas include:
 
 ---
 
-### Systems & Infrastructure
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,cmake,vscode" />
-</p>
-
----
 
 ## High Performance Computing
 
